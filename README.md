@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![A.R.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=now-youre-gittin-it)](https://github.com/now-youre-gittin-it/readme-components)
+
+[![Profile views](https://gpvc.arturio.dev/[now-youre-gittin-it])
