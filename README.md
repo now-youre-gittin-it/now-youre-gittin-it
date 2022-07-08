@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 [![A.R.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=now-youre-gittin-it)](https://github.com/now-youre-gittin-it/readme-components)
 
-[![Profile views](https://gpvc.arturio.dev/[NOW-YOURE-GITTIN-IT])
+
