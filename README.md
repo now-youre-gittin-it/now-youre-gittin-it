@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This is A.R.'s repo with the projects I've been working on. It took a while to work on in-depth personal projects beyond the simple model building or data wrangling attempts that I was more familiar with. <br>
+This time around, the goal is to work on projects that can provide depth and not just breadth. <br>
+At this time, core focus areas include NLP, advanced EDA using automation, and end-to-end model deployment.
+  
+
 <!--
 **now-youre-gittin-it/now-youre-gittin-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
