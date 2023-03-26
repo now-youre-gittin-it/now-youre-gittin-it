@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-This is A.R.'s repo with the projects I've been working on. It took a while to work on in-depth personal projects beyond the simple model building or data wrangling attempts that I was more familiar with. <br>
-This time around, the goal is to work on projects that can provide depth and not just breadth. <br>
-At this time, core focus areas include NLP, advanced EDA using automation, and end-to-end model deployment.
+This is A.R.'s repo with the projects I've been working on.
   
 
 <!--
@@ -20,6 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![A.R.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=now-youre-gittin-it)](https://github.com/now-youre-gittin-it/readme-components)
+<!-- [![A.R.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=now-youre-gittin-it)](https://github.com/now-youre-gittin-it/readme-components) -->
 
 
